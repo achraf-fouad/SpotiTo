@@ -94,7 +94,7 @@ main{
     margin-left: 10px;
 }
 .latest-title{
-    font-size: clamp(10px , 2vw , 30px);
+    font-size: clamp(30px , 5vw , 36px);
     margin: 40px 0;
     margin-left: 30px;
 }
